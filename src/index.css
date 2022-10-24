@@ -1,0 +1,18 @@
+#root, html, body{
+    height: 100vh;
+}
+
+body{
+    margin: 0;
+    /* background-color: whitesmoke; */
+    background-color: navy;
+    /* background-image: url(images/bg.jpg) ; */
+}
+
+*{
+  box-sizing: border-box;  
+}
+
+html{
+    scroll-behavior: smooth;
+}
